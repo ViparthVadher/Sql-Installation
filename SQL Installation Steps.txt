@@ -1,0 +1,28 @@
+1. Install 7z
+2. Right click on 10201_database.zip > 7-zip > extract here
+3. It will extract the zip file to a folder called "database"
+4. Go inside database folder
+5. Right click on setup.exe > properties > compatability > show settings for all users
+6. Click Run this program in compatability for Windows XP Service Pack 3(For windows 10/8) or Windows XP Service Pack 3(For windows 7)
+7. Click Run this program as an administrator
+8. Ok > Ok
+9. Double click on setup.exe > yes
+10. Give database password as "tiger" > next
+11. Next > yes
+12. Allow Access > Install
+13. If any error comes ignore it
+14. Wait for it to load
+15. In Database Configuration Assistant go to Password Management
+16. Unlock Scott and HR and give the password as tiger
+17. Ok > Ok
+18. Exit > Yes
+19. Click on Start Button and search for sqlplus.
+20. Right Click on SQL Plus > Pin to Taskbar
+21. In Taskbar Right Click on SQL Plus Icon > Right Click on SQL Plus
+22. Properties > compatability > show settings for all users
+23. Click Run this program in compatability for Windows XP Service Pack 3(For windows 10/8) or Windows XP Service Pack 3(For windows 7)
+24. Click Run this program as an administrator
+25. Ok > Ok
+26. Double Click on SQL Plus Icon in Taskbar > yes
+27. Username=Scott and Password=tiger > OK
+28. ALWAYS GIVE exit COMMAND TO CLOSE SQL PLUS. DONT CLOSE IT DIRECTLY
